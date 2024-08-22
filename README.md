@@ -1,4 +1,4 @@
-# fortunate-thunder-4899-
+# INR-Club
 
  This project is a hotel booking website that allows users to search for and book hotels online.
 
