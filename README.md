@@ -1,4 +1,5 @@
-# INR-Club
+# INR-Club 
+- Deployed link: https://inrclub.netlify.app/
 
  This project is a hotel booking website that allows users to search for and book hotels online.
 
@@ -7,9 +8,7 @@
 
 <!-- ************************************** -->
 
-Usage -->
-
-
+## Usage
 To use the website, follow these steps:
 
 Navigate to the homepage.
@@ -29,8 +28,7 @@ Submit the booking form to confirm your reservation.
 
 
 
-Features-->
-
+## Features
 
 The hotel booking website includes the following features:
 
@@ -47,8 +45,7 @@ Payment options: The website supports multiple payment options, including credit
 
 
 
-Technologies Used-->
-
+## Technologies Used
 
 The hotel booking website was built using the following technologies:
 
@@ -63,8 +60,7 @@ Render.com to create mock API.
 
 
 
-Contributors-->
-
+## Contributors
 
 This project is developed by the following contributors:
 
