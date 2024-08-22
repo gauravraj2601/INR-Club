@@ -1,5 +1,10 @@
 # INR-Club 
 - Deployed link: https://inrclub.netlify.app/
+- Watch the demonstration: [INR Club](https://youtu.be/_8LhmkCyhoM)
+<br>
+
+
+![INR Club](https://github.com/user-attachments/assets/299904cb-9a28-4a5b-bfba-2a7942c1df38)
 
  This project is a hotel booking website that allows users to search for and book hotels online.
 
